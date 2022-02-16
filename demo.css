@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.question {
+    font-weight: bold;
+}
+
+.answer {
+    font-weight: normal;
+    word-spacing: 20px;
+}
